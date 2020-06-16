@@ -1,7 +1,7 @@
 body {
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
-	line-height: 26px;
+	line-height: normal;
 }
 *,*:before,*:after{
 	padding: 0;
